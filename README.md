@@ -29,5 +29,5 @@ The search uses DuckDuckGo’s lightweight HTML search, filters out common platf
 
 1. **Clone this repo**:
    ```bash
-   git clone https://github.com/YOUR_USERNAME/SearchAgent.git
+   git clone https://github.com/NoamW2108/SearchAgent.git
    cd SearchAgent
