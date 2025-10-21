@@ -32,3 +32,5 @@ The search uses DuckDuckGo’s lightweight HTML search, filters out common platf
    git clone https://github.com/NoamW2108/SearchAgent.git
    cd SearchAgent
    python app.py
+
+- Open http://127.0.0.1:8000 in your browser.
