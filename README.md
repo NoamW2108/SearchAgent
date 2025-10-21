@@ -33,4 +33,4 @@ The search uses DuckDuckGo’s lightweight HTML search, filters out common platf
    cd SearchAgent
    python app.py
 
-- Open http://127.0.0.1:8000 in your browser.
+2. Open http://127.0.0.1:8000 in your browser.
