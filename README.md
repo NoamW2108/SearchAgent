@@ -31,3 +31,4 @@ The search uses DuckDuckGo’s lightweight HTML search, filters out common platf
    ```bash
    git clone https://github.com/NoamW2108/SearchAgent.git
    cd SearchAgent
+   python app.py
